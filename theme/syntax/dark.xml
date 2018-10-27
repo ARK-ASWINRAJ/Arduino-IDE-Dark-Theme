@@ -2,7 +2,7 @@
 <!DOCTYPE RSyntaxTheme SYSTEM "theme.dtd">
 
 <!--
-	Dark theme based off of Notepad++'s Obsidian theme.
+	Dark theme based off on Notepad++'s Obsidian theme.
 	See theme.dtd and org.fife.ui.rsyntaxtextarea.Theme for more information.
 -->
 <RSyntaxTheme version="1.0">
